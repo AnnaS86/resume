@@ -41,7 +41,7 @@ body {
 
 /* При просмотре кода обнаружилось, что верстка ломается при уменьшении экрана до  770px*/
 @media(max-width: 770px) {
-  info {
+  .info {
     display: block;
     text-align: center;
   }
